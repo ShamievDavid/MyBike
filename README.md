@@ -4,11 +4,11 @@
 - BEM
 
 ## Demo link
-([MyBike](https://shamievdavid.github.io/MyBike/)).
+[MyBike](https://shamievdavid.github.io/MyBike/)
 
  ## Design Mockup
 
-https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1&mode=dev
+https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?type=design&node-id=19655%3A32&mode=dev
 
 ## Launching the Project.
 npm install or yarn install
