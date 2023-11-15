@@ -8,7 +8,7 @@
 
  ## Design Mockup
 
-https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?type=design&node-id=19655%3A32&mode=dev
+[MOCKUP](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?type=design&node-id=41317-204&mode=design&t=Vv5fIhF8uGdrdPYA-0)
 
 ## Launching the Project.
 npm install or yarn install
